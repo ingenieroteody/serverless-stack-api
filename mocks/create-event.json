@@ -1,0 +1,8 @@
+{
+	"body" : "{\"content\":\"hello world again\",\"attachment\":\"hello_again.jpg\"}",
+	"requestContext" : {
+		"identity": {
+			"cognitoIdentityId": "AKIASE7LPSXCN5U2OLGN"
+		}
+	}
+}
